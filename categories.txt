@@ -1,0 +1,9 @@
+greeting	 hi hi. hello hello. how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+book-inquiry        Are there books about AI? Is AI written about in literature? Can I read about AI? What is the history of books in AI? History of AI in literature Science fiction literature AI?
+book-recommendation     Which books should I read? Which books talk about AI? books in AI I should read Best AI books? Best books in AI Popular books in AI Which books show AI as a good thing? Top science fiction books in AI
+book-trend      AI in books? science fiction AI? Who wrote AI books? Are there AI books? Is AI good or bad? Good book AI shown as good AI shown as bad artificial intelligence positive negative warning message theme from books history prediction about AI in the future
+author-inquiry      popular AI authors? 3 laws of robotics? Isaac Asimov? Frankenstein science fiction literature AI authors Who wrote AI books? Who are the most populat AI authors? Who wrote books about artificial intelligence?
+ai-inquiry      What is AI? What does AI stand for? AI in literature? Artificial intelligence versus machine learning? AI? Future of AI? Computer science and AI? What is computer programming? How is AI implemented?
+bot-inquiry     Who are you? What is your name? What are you? Who? What? what are you? what is this? How does this work what is this built off of how do you do this Are you real?
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
